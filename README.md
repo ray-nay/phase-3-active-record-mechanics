@@ -232,3 +232,4 @@ Active Record, and some of the other methods we have access to in our classes.
 [ci]: https://github.com/learn-co-curriculum/phase-3-ruby-oo-inheritance-defining-inheritance
 [ar-methods]: http://guides.rubyonrails.org/active_record_basics.html#creating-active-record-models
 [convention]: https://guides.rubyonrails.org/active_record_basics.html#convention-over-configuration-in-active-record
+  -------------------------
